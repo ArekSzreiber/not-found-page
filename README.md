@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.4.
 
+This is "[404 Not Found](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY)" assignement from [devchallenges.io](https://devchallenges.io/)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
