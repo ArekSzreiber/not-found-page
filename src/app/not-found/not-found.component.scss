@@ -1,4 +1,5 @@
 $gray-1: #333333;
+$gray-2: #4f4f4f;
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Montserrat:wght@600&family=Space+Mono:wght@400;700&display=swap');
 
 .container {
@@ -43,6 +44,7 @@ h1 {
 
 article {
   font-weight: 400;
+  color: $gray-2;
 }
 
 button {
