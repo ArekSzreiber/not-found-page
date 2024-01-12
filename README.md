@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.4.
 
-This is "[404 Not Found](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY)" assignement from [devchallenges.io](https://devchallenges.io/)
+This is "[404 Not Found]([https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY](https://legacy.devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY))" assignement from legacy [devchallenges.io](https://legacy.devchallenges.io/)
 
 ## Development server
 
